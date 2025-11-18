@@ -1,0 +1,47 @@
+[
+  {
+    "name": "ESL Teacher Feedback Tool",
+    "description": "Automated tool for VIPKid teachers to manage and respond to student feedback",
+    "icp": "Online ESL teachers on VIPKid and similar platforms",
+    "problem": "Managing and responding to student feedback is time-consuming and repetitive",
+    "aspiration": "Spend less time on admin work and more time teaching",
+    "workaround": "Manually copying/pasting responses, using spreadsheets",
+    "communities": ["r/VIPKid", "VIPKid Teachers Facebook Group", "VIPKid Teachers Discord"]
+  },
+  {
+    "name": "ENM Calendar API",
+    "description": "Shared calendar system for polyamorous relationships",
+    "icp": "People in ethical non-monogamous relationships",
+    "problem": "Coordinating schedules across multiple partners is complex and leads to conflicts",
+    "aspiration": "Avoid scheduling conflicts and maintain healthy relationships",
+    "workaround": "Google Calendar with complex color coding, constant texting",
+    "communities": ["r/polyamory", "r/nonmonogamy", "Multiamory Podcast Discord"]
+  },
+  {
+    "name": "AI Song Generator",
+    "description": "Generate custom songs from text prompts for content creators",
+    "icp": "YouTube creators and social media influencers",
+    "problem": "Creating original music for content is expensive and copyright-risky",
+    "aspiration": "Have unique background music without copyright strikes or high costs",
+    "workaround": "Royalty-free music libraries (sound generic), paying musicians (expensive)",
+    "communities": ["r/YouTubers", "r/NewTubers", "r/ContentCreation"]
+  },
+  {
+    "name": "Developer Portfolio Generator",
+    "description": "AI-powered portfolio website builder for developers",
+    "icp": "Junior developers and bootcamp graduates",
+    "problem": "Building a portfolio that stands out is time-consuming and many lack design skills",
+    "aspiration": "Land first dev job with an impressive portfolio",
+    "workaround": "Free templates (look generic), hiring designers (expensive)",
+    "communities": ["r/cscareerquestions", "r/learnprogramming", "Dev.to"]
+  },
+  {
+    "name": "Solopreneur Tax Assistant",
+    "description": "AI chatbot that helps solopreneurs with tax questions and deductions",
+    "icp": "Solo founders and freelancers earning $50K-200K/year",
+    "problem": "Don't know what they can deduct, scared of doing taxes wrong, CPAs are expensive",
+    "aspiration": "Maximize deductions without fear of audit, save CPA costs",
+    "workaround": "TurboTax (confusing), CPAs ($2K+/year), guessing and hoping",
+    "communities": ["r/solopreneur", "r/freelance", "Indie Hackers"]
+  }
+]
